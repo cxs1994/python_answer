@@ -25,9 +25,9 @@ init()
 
 # 百度OCR_api定义常量
 # 输入你的API信息  
-APP_ID = '10708559'
-API_KEY = 'S1f5VqlThuytyX4A6fSEbt7A'
-SECRET_KEY = 'e8GHXH9nIwQjFh7DnKNjQCuuTGxbEPBG'
+APP_ID = ''
+API_KEY = ''
+SECRET_KEY = ''
 aipOcr = AipOcr(APP_ID, API_KEY, SECRET_KEY)  
 
 # 定义参数变量  
