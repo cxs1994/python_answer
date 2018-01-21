@@ -11,7 +11,6 @@ python答题类应用
 自动判断屏幕是否为答题页面
 
 ![](https://github.com/cxs1994/python_answer/blob/master/gitpic/run.png)<br>
-)<br>
 
 
 
