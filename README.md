@@ -8,4 +8,10 @@ python答题类应用
 
 通过adb获取手机屏幕答题
 
+自动判断屏幕是否为答题页面
+
+![](https://github.com/cxs1994/python_answer/blob/master/gitpic/run.png)<br>
+
+
+
 ![](https://github.com/cxs1994/python_answer/blob/master/gitpic/20180121104004.jpg)<br>
