@@ -12,6 +12,10 @@ python答题类应用
 
 ![](https://github.com/cxs1994/python_answer/blob/master/gitpic/run.png)<br>
 
+会优先从本地题库获取，没有结果再百度，然后再存入本地题库，QQ群每天推送最新最全的题库，也希望大家多多分享哈
 
+![](https://github.com/cxs1994/python_answer/blob/master/gitpic/data.png)<br>
+
+交流，分享题库QQ群
 
 ![](https://github.com/cxs1994/python_answer/blob/master/gitpic/20180121104004.jpg)<br>
